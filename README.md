@@ -11,4 +11,4 @@ Only members can shopping and write reviews.<br>
 You can see your orders in My Shopping page.<br>
 You can use logout for safety.<br><br><br>
 
-Emrah Yüksel'in Sıfırdan İleri Seviyeye Komple PHP ile Web Geliştirme 2019 Eğitimini temel alarak kodlanmıştır.<br> https://www.udemy.com/share/101sCMBUIZdF9VR3o=/ 
+It was coded on the basis of Emrah Yüksel's Sıfırdan İleri Seviyeye Komple PHP ile Web Geliştirme 2019.<br> https://www.udemy.com/share/101sCMBUIZdF9VR3o=/ 
